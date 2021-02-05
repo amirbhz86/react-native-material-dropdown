@@ -44,5 +44,5 @@
     "react-native-material-buttons": "^0.5.0",
     "react-native-material-ripple": "^0.8.0",
     "react-native-material-textfield": "https://github.com/amirbhz86/react-native-material-textfield.git",
-  }
+  },
 }
